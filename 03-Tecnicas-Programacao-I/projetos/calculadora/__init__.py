@@ -1,6 +1,6 @@
-# __init__py
+from funcoes import soma
 
 def calcule():
-    a=5
+    a=1
     b=2
     print(soma(a,b))
