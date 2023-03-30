@@ -6,3 +6,6 @@
 ## 03-Técnicas de Programação I
 - Github
 - Numpy
+## 04-Estatística I
+## 05-Estatística II
+## 06-Machine Learning I
